@@ -1,1 +1,4 @@
 Spaceship is fueled and we are ready to blast off to mars
+We are docked into Spacestation, waiting for slingshot to mars
+We are approaching mars, ready to landing
+
